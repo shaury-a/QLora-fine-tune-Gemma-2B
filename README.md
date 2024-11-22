@@ -6,3 +6,4 @@ This repository contains scripts for fine-tuning and inference using the Gemma-2
 
 - **Fine-Tuning with LoRA:** Efficient adaptation of the Gemma-2B model using QLoRA.
 - **Inference and Evaluation:** Scripts to evaluate the fine-tuned model on a custom dataset.
+- **FInal Result:** This file contains results for fine-tuned and base model.
